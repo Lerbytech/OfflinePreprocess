@@ -1,0 +1,31 @@
+C:\Users\Админ\Documents\Visual Studio 2012\Projects\OfflinePreprocess\OfflinePreprocess\bin\Debug\OfflinePreprocess.exe
+C:\Users\Админ\Documents\Visual Studio 2012\Projects\OfflinePreprocess\OfflinePreprocess\bin\Debug\OfflinePreprocess.pdb
+C:\Users\Админ\Documents\Visual Studio 2012\Projects\OfflinePreprocess\OfflinePreprocess\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Админ\Documents\Visual Studio 2012\Projects\OfflinePreprocess\OfflinePreprocess\bin\Debug\Emgu.CV.World.dll
+C:\Users\Админ\Documents\Visual Studio 2012\Projects\OfflinePreprocess\OfflinePreprocess\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Админ\Documents\Visual Studio 2012\Projects\OfflinePreprocess\OfflinePreprocess\bin\Debug\Emgu.CV.World.xml
+C:\Users\Админ\Documents\Visual Studio 2012\Projects\OfflinePreprocess\OfflinePreprocess\bin\Debug\ZedGraph.xml
+C:\Users\Админ\Documents\Visual Studio 2012\Projects\OfflinePreprocess\OfflinePreprocess\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Админ\Documents\Visual Studio 2012\Projects\OfflinePreprocess\OfflinePreprocess\obj\Debug\OfflinePreprocess.csprojResolveAssemblyReference.cache
+C:\Users\Админ\Documents\Visual Studio 2012\Projects\OfflinePreprocess\OfflinePreprocess\obj\Debug\OfflinePreprocess.Properties.Resources.resources
+C:\Users\Админ\Documents\Visual Studio 2012\Projects\OfflinePreprocess\OfflinePreprocess\obj\Debug\OfflinePreprocess.csproj.GenerateResource.Cache
+C:\Users\Админ\Documents\Visual Studio 2012\Projects\OfflinePreprocess\OfflinePreprocess\obj\Debug\OfflinePreprocess.exe
+C:\Users\Админ\Documents\Visual Studio 2012\Projects\OfflinePreprocess\OfflinePreprocess\obj\Debug\OfflinePreprocess.pdb
+C:\Users\Админ\Documents\Visual Studio 2012\Projects\OfflinePreprocess\OfflinePreprocess\obj\Debug\OfflinePreprocess.Form1.resources
+C:\Users\Admin\Desktop\LatestVersion\OfflinePreprocess\OfflinePreprocess\obj\Debug\OfflinePreprocess.exe
+C:\Users\Admin\Desktop\LatestVersion\OfflinePreprocess\OfflinePreprocess\obj\Debug\OfflinePreprocess.pdb
+C:\Users\Admin\Desktop\LatestVersion\OfflinePreprocess\OfflinePreprocess\obj\Debug\OfflinePreprocess.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\LatestVersion\OfflinePreprocess\OfflinePreprocess\obj\Debug\OfflinePreprocess.Form1.resources
+C:\Users\Admin\Desktop\LatestVersion\OfflinePreprocess\OfflinePreprocess\obj\Debug\OfflinePreprocess.Form2.resources
+C:\Users\Admin\Desktop\LatestVersion\OfflinePreprocess\OfflinePreprocess\obj\Debug\OfflinePreprocess.Properties.Resources.resources
+C:\Users\Admin\Desktop\LatestVersion\OfflinePreprocess\OfflinePreprocess\obj\Debug\OfflinePreprocess.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\LatestVersion\OfflinePreprocess\OfflinePreprocess\bin\Debug\OfflinePreprocess.exe
+C:\Users\Admin\Desktop\LatestVersion\OfflinePreprocess\OfflinePreprocess\bin\Debug\OfflinePreprocess.pdb
+C:\Users\Admin\Desktop\LatestVersion\OfflinePreprocess\OfflinePreprocess\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Admin\Desktop\LatestVersion\OfflinePreprocess\OfflinePreprocess\bin\Debug\Emgu.CV.World.dll
+C:\Users\Admin\Desktop\LatestVersion\OfflinePreprocess\OfflinePreprocess\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Admin\Desktop\LatestVersion\OfflinePreprocess\OfflinePreprocess\bin\Debug\Emgu.CV.World.xml
+C:\Users\Admin\Desktop\LatestVersion\OfflinePreprocess\OfflinePreprocess\bin\Debug\ZedGraph.xml
+C:\Users\Admin\Desktop\LatestVersion\OfflinePreprocess\OfflinePreprocess\bin\Debug\zh-CN\ZedGraph.resources.dll
+F:\LatestVersion\OfflinePreprocess\OfflinePreprocess\obj\Debug\OfflinePreprocess.exe
+F:\LatestVersion\OfflinePreprocess\OfflinePreprocess\obj\Debug\OfflinePreprocess.pdb

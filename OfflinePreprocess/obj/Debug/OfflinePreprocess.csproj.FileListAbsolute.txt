@@ -29,3 +29,5 @@ C:\Users\Admin\Desktop\LatestVersion\OfflinePreprocess\OfflinePreprocess\bin\Deb
 C:\Users\Admin\Desktop\LatestVersion\OfflinePreprocess\OfflinePreprocess\bin\Debug\zh-CN\ZedGraph.resources.dll
 F:\LatestVersion\OfflinePreprocess\OfflinePreprocess\obj\Debug\OfflinePreprocess.exe
 F:\LatestVersion\OfflinePreprocess\OfflinePreprocess\obj\Debug\OfflinePreprocess.pdb
+D:\Ilya\GitHub\OfflinePreprocess\OfflinePreprocess\obj\Debug\OfflinePreprocess.exe
+D:\Ilya\GitHub\OfflinePreprocess\OfflinePreprocess\obj\Debug\OfflinePreprocess.pdb
